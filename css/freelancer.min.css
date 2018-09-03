@@ -278,7 +278,7 @@ header.masthead h2 {
 @media (min-width:768px) {
 
     #Home img{
-        width:auto;
+        width:250px;;
     }
     .portfolio-modal .portfolio-modal-dialog {
         min-height: 100vh;
