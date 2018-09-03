@@ -1,5 +1,6 @@
 body {
   font-family: 'Lato';
+  overflow-x: hidden;
 }
 
 h1,

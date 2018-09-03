@@ -1,5 +1,5 @@
 body {
-  
+  overflow-x: hidden;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -237,6 +237,10 @@ header.masthead h2 {
 }
 
 @media (min-width:576px) {
+    #Home img{
+        width:100px;
+    }
+  
     .portfolio {
         margin-bottom: -30px
     }
@@ -272,6 +276,10 @@ header.masthead h2 {
 }
 
 @media (min-width:768px) {
+
+    #Home img{
+        width:auto;
+    }
     .portfolio-modal .portfolio-modal-dialog {
         min-height: 100vh;
         padding: 5rem;
