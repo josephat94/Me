@@ -12,6 +12,12 @@ h6 {
   font-family: 'Montserrat';
 }
 
+flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
