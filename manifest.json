@@ -3,7 +3,7 @@
     "short_name": "josephat Reyes Resume",
     "description": "A single PWA for my resume ",
     "background_color": "#fff",
-    "theme_color": "#fb314e",
+    "theme_color": "#151515",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./index.html?utm_source=web_app_manifest",
