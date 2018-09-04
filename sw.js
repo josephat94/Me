@@ -3,7 +3,7 @@ const CACHE_NAME="V1_cache_josephat_PWA";
 
 // Ficheros a cachear en la app
 var urlsoCache=[
-    "./", "./css/freelancer.min.css", "./img", "./scss",
+    "./", "./css/freelancer.min.css", "./img",
 
 ];
 
