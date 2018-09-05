@@ -372,9 +372,15 @@ background-position: center;
 
 .bg-primary {
     background-color: #2c3e50  !important;
-background-image: url('https://images.unsplash.com/photo-1525373698358-041e3a460346?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4051df9e2f82d0f19d2df4eb6dbe7711&auto=format&fit=crop&w=1900&q=80');
+background-image: url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20bc6324f6ef2969d9a7cae56b8d4d1&auto=format&fit=crop&w=2700&q=80');
 background-size: cover;
+
 background-position: center;
+}
+
+header.masthead {
+    padding-top: calc(6rem + 72px);
+    padding-bottom: 0.5rem;
 }
 .bg-primary3 {
 
